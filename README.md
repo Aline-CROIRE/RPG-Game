@@ -1,10 +1,11 @@
 
 # RPG-Game
-RPG - Dragon Repeller
-Overview
-Welcome to Dragon Repeller, a text-based RPG where you must defeat a dragon to save the town. Explore different locations, fight monsters, gather resources, and upgrade your weapons to become strong enough to face the dragon.
 
-Table of Contents
+## Overview
+Welcome to Dragon Repeller, a text-based RPG where you must defeat a dragon to save the town. 
+Explore different locations, fight monsters, gather resources, and upgrade your weapons to become strong enough to face the dragon.
+
+##Table of Contents
 Overview
 Table of Contents
 Installation
