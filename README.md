@@ -27,7 +27,7 @@ To install and run the game on your local machine, follow these steps:
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/dragon-repeller.git
+    git clone https://github.com/Aline-CROIRE/RPG-Game.git
     ```
 
 2. **Navigate to the project directory:**
@@ -86,7 +86,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 If you have any questions or feedback, please contact us at:
-- **Email:** support@rpg-game.com
-- **GitHub Issues:** [Issues Page](https://github.com/yourusername/dragon-repeller/issues)
+- **Email:** niyocroirealine@gmail.com
 
 Thank you for playing Dragon Repeller!
